@@ -17,6 +17,10 @@
       <td align=center><b>Se déplacer / Move</b></td>
     </tr>
     <tr>
+      <td align="center"><img src="https://github.com/Neelyaa/JS_Game_Advanced/assets/100840997/e070c725-70a3-4cb7-8b70-29acada41a04" width=6%></td>
+      <td align="center"> <b>Sauter / Jump</b></td>
+    </tr>
+    <tr>
       <td align=center><img src="https://github.com/Neelyaa/JS_Game_Advanced/assets/100840997/99ff3530-ddf7-4e7b-8c01-784d9810c9c8" width=17%></td>
       <td align=center><b>Rouler / Roll </b></td>
     </tr>
